@@ -14,7 +14,7 @@ const Header = () => {
             </div>
             <div className={style.header__menu} style={{ left: visivel ? '0' : '-500vw' }}>
                 <div>
-                    <a href="/">
+                    <a href="/leisureimoveis">
                         <img src={logo} alt="Página inicial" />
                     </a>
                 </div>
