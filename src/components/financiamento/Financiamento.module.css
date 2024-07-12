@@ -1,0 +1,38 @@
+.financiamento {
+    align-items: center;
+    background: var(--color-4th);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 2em;
+    padding: 2em 1em;
+}
+
+.financiamento img {
+    width: 300px;
+}
+
+.content {
+    line-height: 1.4;
+    text-align: center;
+}
+
+.content h2 {
+    font-size: 1.25em;
+    font-weight: 600;
+    margin-top: 3em;
+    margin-bottom: 2em;
+    text-transform: uppercase;
+}
+
+.financeiras {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    column-gap: 3em;
+    margin-top: 2em;
+}
+
+.financeiras img {
+    width: 100px;
+}

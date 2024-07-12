@@ -1,0 +1,41 @@
+.container {
+    background: linear-gradient(to bottom, #FFF, var(--color-3rd));
+    margin-top: 2em;
+    padding: 2em 0;
+}
+
+.container h2 {
+    font-size: 1.25em;
+    font-weight: 600;
+    margin-bottom: 2em;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.container img {
+    width: 100%;
+}
+
+.content ul {
+    line-height: 1.4;
+    padding: 2em 1em 0 1em;
+    text-align: center;
+}
+
+.content li {
+    align-items: center;
+    column-gap: 0.75em;
+    display: flex; 
+    justify-content: center;
+}
+
+.content h3 {
+    font-weight: 600;
+    margin: 2em 0 1em 0;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.content i {
+    color: var(--color-5th);
+}
