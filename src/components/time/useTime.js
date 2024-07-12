@@ -2,7 +2,7 @@ import { useEffect, useState } from "react"
 
 export const useTime = () => {
     const [time, setTime] = useState([]);
-    const url = '/leisureimoveis/src/data/Time.json'
+    const url = './Time.json'
 
     useEffect(() => {
 
