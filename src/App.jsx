@@ -5,6 +5,7 @@ import Destaques from './components/destaques/Destaques'
 import Financiamento from './components/financiamento/Financiamento'
 import Header from './components/header/Header'
 import Sobre from './components/sobre/Sobre'
+import Time from './components/time/Time'
 
 function App() {
 
@@ -16,6 +17,7 @@ function App() {
       <Financiamento />
       <Comprar />
       <Sobre />
+      <Time />
     </>
     
   )
