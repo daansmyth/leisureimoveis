@@ -1,10 +1,12 @@
 import style from './Destaques.module.css';
+//IMAGENS
+import destaques from '../../assets/banner/destaques.png'
 
 const Destaques = () => {
     return (
         <div className={style.destaques}>
             <div>
-                <img src='leisureimoveis/src/assets/banner/destaques.png' alt="Destaques" />
+                <img src={destaques} alt="Destaques" />
             </div>
             <div className={style.content}>
                 <h2>Vem ver os destaques que separamos para você</h2>

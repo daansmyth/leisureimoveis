@@ -1,5 +1,6 @@
 import style from './Comprar.module.css'
-import familia from '@/assets/familia.svg'
+//IMAGENS
+import familia from '../../assets/familia.svg'
 
 const Comprar = () => {
     return (

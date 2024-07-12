@@ -1,4 +1,6 @@
 import style from './Sobre.module.css';
+//IMAGENS
+import escritorio from '../../assets/escritorio.png'
 
 const Sobre = () => {
     return (
@@ -8,7 +10,7 @@ const Sobre = () => {
             </>
             <div className={style.sobre}>
                 <>
-                    <img src="leisureimoveis/images/escritorio.png" alt="Imagem do nosso escritório" />
+                    <img src={escritorio} alt="Imagem do nosso escritório" />
                 </>
                 <div className={style.content}>
                     <ul>

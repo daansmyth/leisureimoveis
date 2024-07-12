@@ -1,4 +1,5 @@
 import './Carrossel.css'
+//IMAGENS
 import anuncio1 from '../../assets/banner/anuncio1.png'
 import anuncio2 from '../../assets/banner/anuncio2.png'
 

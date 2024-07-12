@@ -1,5 +1,7 @@
 import style from './Header.module.css'
 import { useHeader } from './useHeader'
+//IMAGENS
+import logo from '../../assets/logo-leisure.svg'
 
 const Header = () => {
 
@@ -13,7 +15,7 @@ const Header = () => {
             <div className={style.header__menu} style={{ left: visivel ? '0' : '-500vw' }}>
                 <div>
                     <a href="/">
-                        <img src="leisureimoveis/src/assets/logo-leisure.svg" alt="Página inicial" />
+                        <img src={logo} alt="Página inicial" />
                     </a>
                 </div>
                 <div className={style.lista}>
