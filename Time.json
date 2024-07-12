@@ -1,0 +1,37 @@
+[
+    {
+        "id": 0,
+        "nome": "Danilo",
+        "profissao": "Front-end",
+        "foto": "https://github.com/daansmyth.png",
+        "linkedin": "https://www.linkedin.com/in/danilo-cruz-8805a2213"
+    },
+    {
+        "id": 1,
+        "nome": "Enzo",
+        "profissao": "DBO",
+        "foto": "https://github.com/enzodevelopment.png",
+        "linkedin": ""
+    },
+    {
+        "id": 2,
+        "nome": "Esau",
+        "profissao": "Dev. Mobile",
+        "foto": "https://github.com/isaacfzz.png",
+        "linkedin": ""
+    },
+    {
+        "id": 3,
+        "nome": "Marcelo",
+        "profissao": "Back-end",
+        "foto": "https://github.com/marcelobezz.png",
+        "linkedin": ""
+    },
+    {
+        "id": 4,
+        "nome": "Marcos",
+        "profissao": "Dev. Mobile",
+        "foto": "https://github.com/marcosvini2001.png",
+        "linkedin": ""
+    }
+]
