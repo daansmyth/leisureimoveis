@@ -2,11 +2,12 @@ import { useEffect, useState } from "react"
 
 export const useTime = () => {
     const [time, setTime] = useState([]);
+    const url = '/leisureimoveis/src/data/Time.json'
 
     useEffect(() => {
 
         const fetchData = async () => {
-            const resposta = await fetch('/leisureimoveis/src/data/Time.json')
+            const resposta = await fetch(url)
             const data = await resposta.json();
             setTime(data);
         }
