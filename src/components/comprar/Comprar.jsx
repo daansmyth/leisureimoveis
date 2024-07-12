@@ -1,11 +1,12 @@
 import style from './Comprar.module.css'
+import familia from '@/assets/familia.svg'
 
 const Comprar = () => {
     return (
         <div className={style.container}>
             <>
                 <>
-                    <img src="leisureimoveis/src/assets/familia.svg" alt="Mãe, pai e filho reunidos" />
+                    <img src={familia} alt="Mãe, pai e filho reunidos" />
                 </>
                 <div className={style.content}>
                     <h2>Como comprar um imóvel para sua familia</h2>
