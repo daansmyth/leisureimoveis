@@ -8,7 +8,7 @@ const Sobre = () => {
             </>
             <div className={style.sobre}>
                 <>
-                    <img src="../src/assets/escritorio.png" alt="Imagem do nosso escritório" />
+                    <img src="leisureimoveis/images/escritorio.png" alt="Imagem do nosso escritório" />
                 </>
                 <div className={style.content}>
                     <ul>

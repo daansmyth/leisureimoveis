@@ -5,7 +5,7 @@ const Comprar = () => {
         <div className={style.container}>
             <>
                 <>
-                    <img src="../src/assets/familia.svg" alt="" />
+                    <img src="leisureimoveis/src/assets/familia.svg" alt="Mãe, pai e filho reunidos" />
                 </>
                 <div className={style.content}>
                     <h2>Como comprar um imóvel para sua familia</h2>

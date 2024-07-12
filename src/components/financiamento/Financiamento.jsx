@@ -4,7 +4,7 @@ const Financiamento = () => {
     return (
         <div className={style.financiamento}>
             <>
-                <img src="../src/assets/financiamento/sem-fiador.svg" alt="Imagem de homem relaxando em uma poltrona" />
+                <img src="leisureimoveis/src/assets/financiamento/sem-fiador.svg" alt="Imagem de homem relaxando em uma poltrona" />
 
                 <div className={style.content}>
                     <h2>O que acha de um financiamento?</h2>
@@ -14,13 +14,13 @@ const Financiamento = () => {
             </>
             <div className={style.financeiras}>
                 <a href="" target='_blank'>
-                    <img src="../src/assets/financiamento/bradesco.svg" alt="Banco Bradesco" />
+                    <img src="leisureimoveis/src/assets/financiamento/bradesco.svg" alt="Banco Bradesco" />
                 </a>
                 <a href="" target='_blank'>
-                    <img src="../src/assets/financiamento/caixa.svg" alt="Caixa Economica Federal" />
+                    <img src="leisureimoveis/src/assets/financiamento/caixa.svg" alt="Caixa Economica Federal" />
                 </a>
                 <a href="" target='_blank'>
-                    <img src="../src/assets/financiamento/itau.svg" alt="Banco Itaú" />
+                    <img src="leisureimoveis/src/assets/financiamento/itau.svg" alt="Banco Itaú" />
                 </a>
             </div>
         </div>

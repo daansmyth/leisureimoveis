@@ -13,7 +13,7 @@ const Header = () => {
             <div className={style.header__menu} style={{ left: visivel ? '0' : '-500vw' }}>
                 <div>
                     <a href="/">
-                        <img src="../src/assets/logo-leisure.svg" alt="Página inicial" />
+                        <img src="leisureimoveis/src/assets/logo-leisure.svg" alt="Página inicial" />
                     </a>
                 </div>
                 <div className={style.lista}>

@@ -4,7 +4,7 @@ const Destaques = () => {
     return (
         <div className={style.destaques}>
             <div>
-                <img src='../src/assets/banner/destaques.png' alt="Destaques" />
+                <img src='leisureimoveis/src/assets/banner/destaques.png' alt="Destaques" />
             </div>
             <div className={style.content}>
                 <h2>Vem ver os destaques que separamos para você</h2>
