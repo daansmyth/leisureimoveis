@@ -1,0 +1,25 @@
+.card {
+    border-radius: 10px;
+    padding: 1em 0.5em;
+}
+
+.card img {
+    border-radius: 50%;
+    width: 150px;
+}
+
+.card ul {
+    text-align: center;
+}
+
+.card h3 {
+    font-weight: 600;
+    margin: 1em 0;
+    text-transform: uppercase;
+}
+
+.card ul img {
+    border-radius: 0;
+    margin-top: 0.25em;
+    width: 25px;
+}

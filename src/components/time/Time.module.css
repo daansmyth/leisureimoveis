@@ -1,0 +1,29 @@
+.container {
+    border: 1px solid var(--color-3rd);
+    border-radius: 10px;
+    box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.3);
+    margin: 2em 1em;
+    padding: 2em 0.75em;
+}
+
+.container h2 {
+    font-size: 1.25em;
+    font-weight: 600;
+    margin-bottom: 2em;
+    margin-top: 1em;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.time {
+    
+    column-gap: 0.75em;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    
+    overflow: hidden;
+    
+    row-gap: 2em;
+}
