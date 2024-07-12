@@ -6,7 +6,7 @@ export const useTime = () => {
     useEffect(() => {
 
         const fetchData = async () => {
-            const resposta = await fetch('./src/data/Time.json')
+            const resposta = await fetch('/leisureimoveis/src/data/Time.json')
             const data = await resposta.json();
             setTime(data);
         }
