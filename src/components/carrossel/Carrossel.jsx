@@ -5,10 +5,10 @@ const Carrossel = () => {
             <div id="carouselExampleAutoplaying" className="carousel slide" data-bs-ride="carousel">
                 <div className="carousel-inner">
                     <div className="carousel-item active" data-bs-interval="5000">
-                        <img src='leisureimoveis/images/banner/anuncio1.png' className="d-block w-100" alt="Anuncio 01" />
+                        <img src='./images/banner/anuncio1.png' className="d-block w-100" alt="Anuncio 01" />
                     </div>
                     <div className="carousel-item active" data-bs-interval="5000">
-                        <img src='leisureimoveis/images/banner/anuncio2.png' className="d-block w-100" alt="Anuncio 02" />
+                        <img src='./images/banner/anuncio2.png' className="d-block w-100" alt="Anuncio 02" />
                     </div>
                 </div>
                 <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
