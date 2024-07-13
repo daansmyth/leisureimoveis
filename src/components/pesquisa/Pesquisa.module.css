@@ -1,0 +1,79 @@
+.container {
+    margin: 2em 0;
+}
+
+.pesquisa {
+    /* border: 2px solid var(--color-2nd); */
+    border-radius: 10px;
+    /* box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5); */
+    margin: 0 1em;
+    padding: 2em 1em;
+}
+
+.pesquisa h2 {
+    font-size: 1.25em;
+    font-weight: 600;
+    margin-bottom: 1em;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.pesquisa h3 {
+    font-weight: 600;
+    text-decoration: underline 2px;
+    text-underline-offset: 18px;
+    
+}
+
+.filtro {
+    border-radius: 5px;
+}
+
+.filtro li {
+    align-items: center;
+    border: 1px solid var(--color-2nd);
+    border-radius: 5px;
+    display: flex;
+    padding: 1em 0.5em;
+}
+
+.filtro label {
+    margin-left: 1em;
+    width: calc(100% - 3em);
+}
+
+.filtro p {
+    font-weight: 500;
+}
+
+input, select {
+    border: none;
+    outline: none;
+    margin-top: 0.5em;
+    padding: 0;
+    width: 100%;
+}
+
+.filtro__duplo {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+select {
+    color: gray;
+}
+
+.botao {
+    margin: 2em 0;
+    text-align: center;
+}
+
+.botao button {
+    border: none;
+    border-radius: 20px;
+    color: #FFF;
+    background: var(--color-5th);
+    padding: 0.75em 0;
+    width: 100%;
+
+}
