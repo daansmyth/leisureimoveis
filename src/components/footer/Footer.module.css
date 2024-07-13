@@ -1,0 +1,19 @@
+.footer {
+    align-items: center;
+    border-top: 2px solid var(--color-2nd);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 1em ;
+    padding: 1em 0.5em 0 0.5em;
+}
+
+.footer img {
+    filter: drop-shadow(2px 1px 5px #000);
+    width: 25px;
+}
+
+.social {
+    column-gap: 0.5em;
+    display: flex;
+}
