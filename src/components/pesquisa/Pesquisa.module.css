@@ -47,9 +47,10 @@
 }
 
 input, select {
+    background: #FFF;
     border: none;
-    outline: none;
     margin-top: 0.5em;
+    outline: none;
     padding: 0;
     width: 100%;
 }
@@ -69,10 +70,10 @@ select {
 }
 
 .botao button {
+    background: var(--color-5th);
     border: none;
     border-radius: 20px;
     color: #FFF;
-    background: var(--color-5th);
     padding: 0.75em 0;
     width: 100%;
 

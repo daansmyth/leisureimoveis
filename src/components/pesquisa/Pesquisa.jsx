@@ -29,7 +29,7 @@ const Pesquisa = () => {
                                     <i class="fa-solid fa-brazilian-real-sign"></i>
                                     <label>
                                         <p>Valor até</p>
-                                        <input type="text" placeholder='Digite um valor' />
+                                        <input type="text" placeholder='Valor' />
                                     </label>
                                 </li>
                                 <li>
