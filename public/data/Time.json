@@ -11,27 +11,27 @@
         "nome": "Enzo",
         "profissao": "DBO",
         "foto": "https://github.com/enzodevelopment.png",
-        "linkedin": ""
+        "linkedin": "#"
     },
     {
         "id": 2,
         "nome": "Esau",
         "profissao": "Dev. Mobile",
         "foto": "https://github.com/isaacfzz.png",
-        "linkedin": ""
+        "linkedin": "#"
     },
     {
         "id": 3,
         "nome": "Marcelo",
         "profissao": "Back-end",
         "foto": "https://github.com/marcelobezz.png",
-        "linkedin": ""
+        "linkedin": "#"
     },
     {
         "id": 4,
         "nome": "Marcos",
         "profissao": "Dev. Mobile",
         "foto": "https://github.com/marcosvini2001.png",
-        "linkedin": ""
+        "linkedin": "#"
     }
 ]
