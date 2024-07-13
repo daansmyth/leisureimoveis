@@ -10,6 +10,7 @@
 
 .footer img {
     -webkit-filter: drop-shadow(2px 1px 5px #000);
+    filter: drop-shadow(2px 1px 5px #000);
     width: 25px;
 }
 
